@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/master_detail"
+        android:icon="@drawable/ic_assignment_black_24dp"
+        android:title="Master-Detail"
+        android:menuCategory="secondary" />
+    <item
+        android:id="@+id/image"
+        android:icon="@drawable/ic_image_black_24dp"
+        android:title="Image"
+        android:menuCategory="secondary" />
+    <item
+        android:id="@+id/infos"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="Infos"
+        android:menuCategory="secondary" />
+</menu>
